@@ -1,0 +1,12 @@
+{
+  "name": "my-history-app",
+  "displayName": "my-history-app",
+  "expo": {
+    "name": "my-history-app",
+    "slug": "my-history-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
